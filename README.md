@@ -1,6 +1,6 @@
 # C++ solution for Leetcode
 
-![Language](https://img.shields.io/badge/Language-C++-orange.svg?logo=C%2B%2B&logoColor=blue) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-1%2F1049-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Language](https://img.shields.io/badge/Language-C++-orange.svg?logo=C%2B%2B&logoColor=blue) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-2%2F1050-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 C++ solution of problems from [LeetCode](https://leetcode.com/).
 
@@ -13,7 +13,13 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 
 ### LeetCode Algorithm
 
-#### [Problems 1100-1200](./1200-1300q/)
+#### [Problems 1900-2000](./1900-2000/)
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[C++](./1900-2000/1920/main.cpp)|Easy|
+
+#### [Problems 1100-1200](./1200-1300/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
