@@ -1,11 +1,11 @@
-# LeetCode-Problems
+# C++ solution for Leetcode
 
 ![Language](https://img.shields.io/badge/Language-C++-orange.svg?logo=C%2B%2B&logoColor=blue) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-1%2F1049-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-# C++ solution for Leetcode
 C++ solution of problems from [LeetCode](https://leetcode.com/).
 
-##### [Extra Algorithms](./Extra/)
+## [Extra Algorithms](./Extra/)
+
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|Suffix Array|[C++](./Extra/suffix_array.py)|
@@ -13,7 +13,8 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 
 ### LeetCode Algorithm
 
-##### [Problems 1100-1200](./1200-1300q/)
+#### [Problems 1100-1200](./1200-1300q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[C++](./1200-1300q/1296.py)|Medium|
@@ -32,21 +33,23 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[C++](./1200-1300q/1200.py)|Easy|
 
 ##### [Problems 1100-1200](./1100-1200q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)|[C++](./1100-1200q/1191.py)|Medium|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[C++](./1100-1200q/1190.py)|Medium|
-|1189|[ Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[C++](./1100-1200q/1189.py)|Easy|
+|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[C++](./1100-1200q/1189.py)|Easy|
 |1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[C++](./1100-1200q/1186.py)|Medium|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[C++](./1100-1200q/1185.py)|Easy|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[C++](./1100-1200q/1184.py)|Easy|
 
 ##### [Problems 1000-1100](./1000-1100q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence)|[C++](./1000-1100q/1092.py)|Hard|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|[C++](./1000-1100q/1091.py)|Medium|
-|1090|[Largest Values From Labels ](https://leetcode.com/problems/largest-values-from-labels)|[C++](./1000-1100q/1090.py)|Medium|
+|1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels)|[C++](./1000-1100q/1090.py)|Medium|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)|[C++](./1000-1100q/1089.py)|Easy|
 |1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii)|[C++](./1000-1100q/1088.py)|Hard|
 |1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion)|[C++](./1000-1100q/1087.py)|Medium|
@@ -97,7 +100,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)|[C++](./1000-1100q/1016.py)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)|[C++](./1000-1100q/1015.py)|Medium|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair)|[C++](./1000-1100q/1014.py)|Medium|
-|1013|[Partition Array Into Three Parts With Equal Sum ](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [C++](./1000-1100q/1013.py)|Easy|
+|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [C++](./1000-1100q/1013.py)|Easy|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [C++](./1000-1100q/1011.py) | Medium|
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[C++](./1000-1100q/1010.py)|Easy|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [C++](./1000-1100q/1009.py)|Easy|
@@ -110,6 +113,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[C++](./1000-1100q/1002.py)|Easy|
 
 ##### [Problems 900-1000](./900-1000q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[C++](./900-1000q/999.py)|Medium|
@@ -130,14 +134,15 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing)|[C++](./900-1000q/926.py)|Medium|
 
 ##### [Problems 600-700](./600-700q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|681|[Next Closest Time ](https://leetcode.com/problems/next-closest-time)|[C++](./600-700q/681.py)|Medium|
+|681|[Next Closest Time](https://leetcode.com/problems/next-closest-time)|[C++](./600-700q/681.py)|Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[C++](./600-700/674.py)|Easy|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[C++](./600-700q/673.py)|Medium|
 
-
 ##### [Problems 400-500](./400-500Q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|[C++](./400-500q/482.py)|Easy|
@@ -147,8 +152,8 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting)|[C++](./400-500q/418.py)|Medium|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](./400-500Q/410.py)|Hard|
 
-
 ##### [Problems 300-400](./300-400q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|[C++](./300-400q/393.py)|Medium|
@@ -172,10 +177,11 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[C++](./300-400q/301.py)|Hard|
 
 ##### [Problems 200-300q](./200-300q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C++](./200-300q/300.py)|Medium|
-|298|[Binary Tree Longest Consecutive Sequence ](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|[C++](./200-300q/298.py)|Medium|
+|298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|[C++](./200-300q/298.py)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [C++](./200-300q/297.py)|Hard|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./200-300q/295.py)|Hard|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life) | [C++](/200-300q/289.py)|Medium|
@@ -203,8 +209,8 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [C++](./200-300q/203.py)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| [C++](./200-300q/200.py)|Medium|
 
-
 ##### [Problems 100-200](./100-200q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[C++](./100-200q/199.py)|Medium|
@@ -255,8 +261,8 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [C++](./100-200q/101.py)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [C++](./100-200q/100.py)|Easy|
 
-
 ##### [Problems 1-100](./1-100q/)
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)|[C++](./1-100q/99.py)|Hard|
@@ -327,4 +333,4 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./1-100q/05.py)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./1-100q/4.py)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./1-100q/03.py)|Medium|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./1-100q/TwoSum.py)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./two_sum/main.cpp)|Medium|
