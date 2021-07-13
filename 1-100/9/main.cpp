@@ -1,47 +1,37 @@
 #include <iostream>
 
-int reverse_int(int x)
-{
-    int rx = 0;
-    while (x)
-    {
-        int digit = x % 10;   // retrive rightmost digit
-        rx = rx * 10 + digit; //append the digit and move left
-        x /= 10;              // remove the rightmost digit of x
-    }
-    return rx;
-}
-
 class Solution
 {
 public:
     bool isPalindrome(int x)
     {
-        if (x < 0)
-            return false;
-
-        int right_digit, left_digit;
-        int rx = reverse_int(x);
-        std::cout << rx << std::endl;
-
-        while (x)
+        // Special cases:
+        // As discussed above, when x < 0, x is not a palindrome.
+        // Also if the last digit of the number is 0, in order to be a palindrome,
+        // the first digit of the number also needs to be 0.
+        // Only 0 satisfy this property.
+        if (x < 0 || (x % 10 == 0 && x != 0))
         {
-            right_digit = x % 10;
-            left_digit = rx % 10;
-            x /= 10;
-            rx /= 10;
-
-            if (right_digit != left_digit)
-                return false;
+            return false;
         }
 
-        return true;
+        int revertedNumber = 0;
+        while (x > revertedNumber)
+        {
+            revertedNumber = revertedNumber * 10 + x % 10;
+            x /= 10;
+        }
+
+        // When the length is an odd number, we can get rid of the middle digit by revertedNumber/10
+        // For example when the input is 12321, at the end of the while loop we get x = 12, revertedNumber = 123,
+        // since the middle digit doesn't matter in palidrome(it will always equal to itself), we can simply get rid of it.
+        return x == revertedNumber || x == revertedNumber / 10;
     }
 };
 
 int main()
 {
     Solution model;
-    bool v = model.isPalindrome(1225221);
+    bool v = model.isPalindrome(1265621);
     std::cout << v << std::endl;
 }
