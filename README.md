@@ -335,6 +335,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[C++](./1-100q/14.py)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./1-100q/11.py)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [C++](./1-100q/10.py)|Hard|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](./1-100/9/main.cpp)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)| [C++](./1-100/7/main.cpp)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./1-100q/06.py)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./1-100q/05.py)|Medium|
