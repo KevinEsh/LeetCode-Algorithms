@@ -20,6 +20,12 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[C++](./1900-2000/1929/main.cpp)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[C++](./1900-2000/1920/main.cpp)|Easy|
 
+#### [Problems 1400-1500](./1400-1500/)
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1929|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](./1400-1500/1480/main.cpp)|Easy|
+
 #### [Problems 1100-1200](./1200-1300/)
 
 | # | Title | Solution | Difficulty |
