@@ -327,6 +327,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./1-100q/24.py)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](.//1-100q/23.py)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](./1-100q/22.py)|Medium|
+|20|[Valid Parentheses](hhttps://leetcode.com/problems/valid-parentheses/)| [C++](./1-100/20/main.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./1-100q/19.py)|Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [C++](./1-100q/18.py)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./1-100q/17.py)|Medium|
