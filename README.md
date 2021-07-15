@@ -172,6 +172,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|[C++](./300-400/393.cpp)|Medium|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path)|[C++](./300-400/388.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./300-400/387.cpp)|Easy|
+|382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [C++](./300-400/382/main.cpp)|Hard|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./300-400/380.cpp)|Hard|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [C++](./300-400/378.cpp)|Medium|
 |361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy)|[C++](./300-400/361.cpp)|Medium|
@@ -334,7 +335,8 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./1-100/24.cpp)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](.//1-100/23.cpp)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](./1-100/22.cpp)|Medium|
-|20|[Valid Parentheses](hhttps://leetcode.com/problems/valid-parentheses/)| [C++](./1-100/20/main.cpp)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./1-100/21/main.cpp)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./1-100/20/main.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./1-100/19.cpp)|Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [C++](./1-100/18.cpp)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./1-100/17.cpp)|Medium|
