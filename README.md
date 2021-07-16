@@ -330,6 +330,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./1-100/32.cpp)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./1-100/31.cpp)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](./1-100/30.cpp)|Hard|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./1-100/27/main.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./1-100/26.cpp)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./1-100/25.cpp)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./1-100/24.cpp)|Medium|
