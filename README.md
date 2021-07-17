@@ -161,6 +161,12 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./900-1000/977.cpp)|Easy|
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing)|[C++](./900-1000/926.cpp)|Medium|
 
+##### [Problems 700-800](./700-800/)
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./700-800/771/main.cpp)|Easy|
+
 ##### [Problems 600-700](./600-700/)
 
 | # | Title | Solution | Difficulty |
