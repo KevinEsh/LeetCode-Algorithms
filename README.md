@@ -24,8 +24,13 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1672|[Richest Customer Wealth
-](<https://leetcode.com/problems/richest-customer-wealth/>)|[C++](./1600-1700/1672/main.cpp)|Easy|
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./1600-1700/1672/main.cpp)|Easy|
+
+#### [Problems 1500-1600](./1500-1600/)
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](./1500-1600/1512/main.cpp)|Easy|
 
 #### [Problems 1400-1500](./1400-1500/)
 
