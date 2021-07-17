@@ -20,6 +20,13 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[C++](./1900-2000/1929/main.cpp)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[C++](./1900-2000/1920/main.cpp)|Easy|
 
+#### [Problems 1600-1700](./1600-1700/)
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1672|[Richest Customer Wealth
+](<https://leetcode.com/problems/richest-customer-wealth/>)|[C++](./1600-1700/1672/main.cpp)|Easy|
+
 #### [Problems 1400-1500](./1400-1500/)
 
 | # | Title | Solution | Difficulty |
