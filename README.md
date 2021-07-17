@@ -32,6 +32,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](./1400-1500/1480/main.cpp)|Easy|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](./1400-1500/1470/main.cpp)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./1400-1500/1431/main.cpp)|Easy|
 
 #### [Problems 1100-1200](./1200-1300/)
