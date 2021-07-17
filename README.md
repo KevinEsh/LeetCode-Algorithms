@@ -55,6 +55,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[C++](./1100-1200/1186.cpp)|Medium|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[C++](./1100-1200/1185.cpp)|Easy|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[C++](./1100-1200/1184.cpp)|Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[C++](./1100-1200/1108/main.cpp)|Easy|
 
 ##### [Problems 1000-1100](./1000-1100/)
 
