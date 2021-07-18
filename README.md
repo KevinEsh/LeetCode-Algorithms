@@ -25,6 +25,8 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./1600-1700/1672/main.cpp)|Easy|
+|1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers
+](<https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/>)|[C++](./1600-1700/1689/main.cpp)|Medium|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[C++](./1600-1700/1603/main.cpp)|Easy|
 
 #### [Problems 1500-1600](./1500-1600/)
