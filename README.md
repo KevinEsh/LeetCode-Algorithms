@@ -33,6 +33,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[C++](./1500-1600/1528/main.cpp)|Easy|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](./1500-1600/1512/main.cpp)|Easy|
 
 #### [Problems 1400-1500](./1400-1500/)
