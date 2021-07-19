@@ -44,6 +44,12 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](./1400-1500/1470/main.cpp)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./1400-1500/1431/main.cpp)|Easy|
 
+#### [Problems 1300-1400](./1300-1400/)
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[C++](./1300-1400/1365/main.cpp)|Easy|
+
 #### [Problems 1100-1200](./1200-1300/)
 
 | # | Title | Solution | Difficulty |
