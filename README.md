@@ -375,6 +375,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [C++](./1-100/16/main.cpp)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./1-100/15/main.cpp)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[C++](./1-100/14/main.cpp)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C++](./1-100/13/main.cpp)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./1-100/11/main.cpp)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [C++](./1-100/10/main.cpp)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](./1-100/9/main.cpp)|Easy|
