@@ -54,6 +54,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[C++](./1300-1400/1389/main.cpp)|Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[C++](./1300-1400/1365/main.cpp)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|[C++](./1300-1400/1342/main.cpp)|Easy|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](./1300-1400/1313/main.cpp)|Easy|
