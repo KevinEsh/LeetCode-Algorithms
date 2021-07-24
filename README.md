@@ -24,6 +24,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[C++](./1700-1800/1773/main.cpp)|Easy|
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./1700-1800/1720/main.cpp)|Easy|
 
 #### [Problems 1600-1700](./1600-1700/)
