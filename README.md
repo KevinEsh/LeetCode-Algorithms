@@ -4,12 +4,12 @@
 
 C++ solution of problems from [LeetCode](https://leetcode.com/).
 
-## [Extra Algorithms](./Extra/)
+## [Extra Algorithms](./extra/)
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|1|Suffix Array|[C++](./Extra/suffix_array.cpp)|
-|2|Longest Common Prefix|[C++](./Extra/lcp.cpp)|
+|1|Suffix Array|[C++](./extra/suffix_array.cpp)|
+|2|Longest Common Prefix|[C++](./extra/lcp.cpp)|
 
 ### LeetCode Algorithm
 
