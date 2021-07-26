@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![Language](https://img.shields.io/badge/Language-C++-orange.svg?logo=C%2B%2B&logoColor=blue) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-2%2F1050-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Language](https://img.shields.io/badge/Language-C++-blue.svg?logo=C%2B%2B&logoColor=white) ![Update](https://img.shields.io/badge/Update-Daily-red.svg) ![Progress](https://img.shields.io/badge/progress-40%2F2000-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## C++ solution for Leetcode
 
