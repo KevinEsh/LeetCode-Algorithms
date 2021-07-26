@@ -2,16 +2,15 @@
 
 ![Language](https://img.shields.io/badge/Language-C++-orange.svg?logo=C%2B%2B&logoColor=blue) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-2%2F1050-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## LeetCode Algorithms
 C++ solution of problems from [LeetCode](https://leetcode.com/).
 
-## [Extra Algorithms](./extra/)
+#### [Extra Algorithms](./extra/)
 
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|Suffix Array|[C++](./extra/suffix_array.cpp)|
 |2|Longest Common Prefix|[C++](./extra/lcp.cpp)|
-
-### LeetCode Algorithm
 
 #### [Problems 1900-2000](./1900-2000/)
 
@@ -20,11 +19,13 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[C++](./1900-2000/1929/main.cpp)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[C++](./1900-2000/1920/main.cpp)|Easy|
 
-#### [Problems 1600-1700](./1700-1800/)
+
+#### [Problems 1700-1800](./1700-1800/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[C++](./1700-1800/1773/main.cpp)|Easy|
+|1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[C++](./1700-1800/1769/main.cpp)|Easy|
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./1700-1800/1720/main.cpp)|Easy|
 
 #### [Problems 1600-1700](./1600-1700/)
