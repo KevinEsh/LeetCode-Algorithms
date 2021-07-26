@@ -187,6 +187,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./700-800/771/main.cpp)|Easy|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](./700-800/709/main.cpp)|Easy|
 
 ##### [Problems 600-700](./600-700/)
 
