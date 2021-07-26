@@ -1,26 +1,26 @@
-# C++ solution for Leetcode
+# LeetCode Algorithms
 
 ![Language](https://img.shields.io/badge/Language-C++-orange.svg?logo=C%2B%2B&logoColor=blue) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-2%2F1050-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## LeetCode Algorithms
+## C++ solution for Leetcode
+
 C++ solution of problems from [LeetCode](https://leetcode.com/).
 
-#### [Extra Algorithms](./extra/)
+### [Data Structures](./extra/)
 
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|Suffix Array|[C++](./extra/suffix_array.cpp)|
 |2|Longest Common Prefix|[C++](./extra/lcp.cpp)|
 
-#### [Problems 1900-2000](./1900-2000/)
+### [Problems 1900-2000](./1900-2000/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[C++](./1900-2000/1929/main.cpp)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[C++](./1900-2000/1920/main.cpp)|Easy|
 
-
-#### [Problems 1700-1800](./1700-1800/)
+### [Problems 1700-1800](./1700-1800/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -28,7 +28,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[C++](./1700-1800/1769/main.cpp)|Easy|
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./1700-1800/1720/main.cpp)|Easy|
 
-#### [Problems 1600-1700](./1600-1700/)
+### [Problems 1600-1700](./1600-1700/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -37,14 +37,14 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./1600-1700/1672/main.cpp)|Easy|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[C++](./1600-1700/1603/main.cpp)|Easy|
 
-#### [Problems 1500-1600](./1500-1600/)
+### [Problems 1500-1600](./1500-1600/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[C++](./1500-1600/1528/main.cpp)|Easy|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](./1500-1600/1512/main.cpp)|Easy|
 
-#### [Problems 1400-1500](./1400-1500/)
+### [Problems 1400-1500](./1400-1500/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -52,7 +52,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](./1400-1500/1470/main.cpp)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./1400-1500/1431/main.cpp)|Easy|
 
-#### [Problems 1300-1400](./1300-1400/)
+### [Problems 1300-1400](./1300-1400/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -61,7 +61,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|[C++](./1300-1400/1342/main.cpp)|Easy|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](./1300-1400/1313/main.cpp)|Easy|
 
-#### [Problems 1100-1200](./1200-1300/)
+### [Problems 1100-1200](./1200-1300/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -80,7 +80,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[C++](./1200-1300/1266/main.cpp)|Easy|
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[C++](./1200-1300/1200/main.cpp)|Easy|
 
-##### [Problems 1100-1200](./1100-1200/)
+#### [Problems 1100-1200](./1100-1200/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -92,7 +92,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[C++](./1100-1200/1184/main.cpp)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[C++](./1100-1200/1108/main.cpp)|Easy|
 
-##### [Problems 1000-1100](./1000-1100/)
+#### [Problems 1000-1100](./1000-1100/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -161,7 +161,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)|[C++](./1000-1100/1003/main.cpp)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[C++](./1000-1100/1002/main.cpp)|Easy|
 
-##### [Problems 900-1000](./900-1000/)
+#### [Problems 900-1000](./900-1000/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -182,14 +182,14 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./900-1000/977/main.cpp)|Easy|
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing)|[C++](./900-1000/926/main.cpp)|Medium|
 
-##### [Problems 700-800](./700-800/)
+#### [Problems 700-800](./700-800/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./700-800/771/main.cpp)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](./700-800/709/main.cpp)|Easy|
 
-##### [Problems 600-700](./600-700/)
+#### [Problems 600-700](./600-700/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -197,7 +197,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[C++](./600-700/674/main.cpp)|Easy|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[C++](./600-700/673/main.cpp)|Medium|
 
-##### [Problems 400-500](./400-500/)
+#### [Problems 400-500](./400-500/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -208,7 +208,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting)|[C++](./400-500/418/main.cpp)|Medium|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](./400-500/410/main.cpp)|Hard|
 
-##### [Problems 300-400](./300-400/)
+#### [Problems 300-400](./300-400/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -233,7 +233,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)|[C++](./300-400/307/main.cpp)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[C++](./300-400/301/main.cpp)|Hard|
 
-##### [Problems 200-300q](./200-300/)
+#### [Problems 200-300q](./200-300/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -266,7 +266,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [C++](./200-300/203/main.cpp)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| [C++](./200-300/200/main.cpp)|Medium|
 
-##### [Problems 100-200](./100-200/)
+#### [Problems 100-200](./100-200/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -318,7 +318,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [C++](./100-200/101/main.cpp)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [C++](./100-200/100/main.cpp)|Easy|
 
-##### [Problems 1-100](./1-100/)
+#### [Problems 1-100](./1-100/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
