@@ -1,7 +1,6 @@
 # 1295. Find Numbers with Even Number of Digits
 
 Given an array nums of integers, return how many of them contain an even number of digits.
- 
 
 Example 1:
 
@@ -14,15 +13,15 @@ Explanation:
 6 contains 1 digit (odd number of digits). 
 7896 contains 4 digits (even number of digits). 
 Therefore only 12 and 7896 contain an even number of digits.
+
 Example 2:
 
 Input: nums = [555,901,482,1771]
 Output: 1 
 Explanation: 
-Only 1771 contains an even number of digits.
- 
+Only 1771 contains an even number of digits. 
 
 Constraints:
 
-1 <= nums.length <= 500
-1 <= nums[i] <= 10^5
+* 1 <= nums.length <= 500
+* 1 <= nums[i] <= 10^5
