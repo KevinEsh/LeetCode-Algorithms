@@ -318,83 +318,83 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [C++](./100-200/101/main.cpp)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [C++](./100-200/100/main.cpp)|Easy|
 
-#### [Problems 1-100](./1-100/)
+#### [Problems 0-100](./0-100/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)|[C++](./1-100/99/main.cpp)|Hard|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [C++](./1-100/98/main.cpp)|Medium|
-|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| [C++](./1-100/97/main.cpp)|Hard|
-|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./1-100/95/main.cpp)|Medium|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[C++](./1-100/94/main.cpp)|Medium|
-|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| [C++](./1-100/93/main.cpp)|Medium|
-|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./1-100/92/main.cpp)|Medium|
-|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./1-100/91/main.cpp)|Medium|
-|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./1-100/90/main.cpp)|Medium|
-|87|[Scramble String](https://leetcode.com/problems/scramble-string/)| [C++](./1-100/87/main.cpp)|Hard|
-|86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./1-100/86/main.cpp)|Medium|
-|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [C++](./1-100/85/main.cpp)|Hard|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./1-100/83/main.cpp)|Easy|
-|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./1-100/82/main.cpp)|Medium|
-|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](./1-100/81/main.cpp)|Medium|
-|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./1-100/80/main.cpp)|Medium|
-|79|[Word Search](https://leetcode.com/problems/word-search/)| [C++](./1-100/79/main.cpp)|Medium|
-|78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./1-100/78/main.cpp)|Medium|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [C++](./1-100/75/main.cpp)|Medium|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [C++](./1-100/74/main.cpp)|Medium|
-|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](./1-100/73/main.cpp)|Medium|
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./1-100/72/main.cpp)|Hard|
-|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./1-100/71/main.cpp)|Medium|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./1-100/70/main.cpp)|Easy|
-|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](./1-100/67/main.cpp)|Easy|
-|66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./1-100/66/main.cpp)|Easy|
-|65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](./1-100/65/main.cpp)|Easy|
-|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./1-100/64/main.cpp)|Medium|
-|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./1-100/63/main.cpp)|Medium|
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./1-100/62/main.cpp)|Medium|
-|61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./1-100/61/main.cpp)|Medium|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [C++](./1-100/60/main.cpp)|Medium|
-|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./1-100/57/main.cpp)|Hard|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./1-100/56/main.cpp)|Hard|
-|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](./1-100/54/main.cpp)|Medium|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./1-100/53/main.cpp)|Medium|
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](./1-100/48/main.cpp)|Medium|
-|46|[Permutations](https://leetcode.com/problems/permutations/)| [C++](./1-100/46/main.cpp)|Medium|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./1-100/45/main.cpp)|Hard|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [C++](./1-100/44/main.cpp)|Hard|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [C++](./1-100/42/main.cpp)|Hard|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [C++](./1-100/41/main.cpp)|Hard|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](./1-100/40/main.cpp)|Medium|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./1-100/39/main.cpp)|Medium|
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](./1-100/38/main.cpp)|Easy|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[C++](./1-100/36/main.cpp)|Medium|
-|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [C++](./1-100/34/main.cpp)|Medium|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./1-100/33/main.cpp)|Hard|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./1-100/32/main.cpp)|Hard|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./1-100/31/main.cpp)|Medium|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](./1-100/30/main.cpp)|Hard|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./1-100/27/main.cpp)|Easy|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./1-100/26/main.cpp)|Easy|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./1-100/25/main.cpp)|Hard|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./1-100/24/main.cpp)|Medium|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)|[C++](./0-100/99/main.cpp)|Hard|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [C++](./0-100/98/main.cpp)|Medium|
+|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| [C++](./0-100/97/main.cpp)|Hard|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./0-100/95/main.cpp)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[C++](./0-100/94/main.cpp)|Medium|
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| [C++](./0-100/93/main.cpp)|Medium|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./0-100/92/main.cpp)|Medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./0-100/91/main.cpp)|Medium|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./0-100/90/main.cpp)|Medium|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/)| [C++](./0-100/87/main.cpp)|Hard|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./0-100/86/main.cpp)|Medium|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [C++](./0-100/85/main.cpp)|Hard|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./0-100/83/main.cpp)|Easy|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./0-100/82/main.cpp)|Medium|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](./0-100/81/main.cpp)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./0-100/80/main.cpp)|Medium|
+|79|[Word Search](https://leetcode.com/problems/word-search/)| [C++](./0-100/79/main.cpp)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./0-100/78/main.cpp)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [C++](./0-100/75/main.cpp)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [C++](./0-100/74/main.cpp)|Medium|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](./0-100/73/main.cpp)|Medium|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./0-100/72/main.cpp)|Hard|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./0-100/71/main.cpp)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./0-100/70/main.cpp)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](./0-100/67/main.cpp)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./0-100/66/main.cpp)|Easy|
+|65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](./0-100/65/main.cpp)|Easy|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./0-100/64/main.cpp)|Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./0-100/63/main.cpp)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./0-100/62/main.cpp)|Medium|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./0-100/61/main.cpp)|Medium|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [C++](./0-100/60/main.cpp)|Medium|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./0-100/57/main.cpp)|Hard|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./0-100/56/main.cpp)|Hard|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](./0-100/54/main.cpp)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./0-100/53/main.cpp)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](./0-100/48/main.cpp)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)| [C++](./0-100/46/main.cpp)|Medium|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./0-100/45/main.cpp)|Hard|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [C++](./0-100/44/main.cpp)|Hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [C++](./0-100/42/main.cpp)|Hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [C++](./0-100/41/main.cpp)|Hard|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](./0-100/40/main.cpp)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./0-100/39/main.cpp)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](./0-100/38/main.cpp)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[C++](./0-100/36/main.cpp)|Medium|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [C++](./0-100/34/main.cpp)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./0-100/33/main.cpp)|Hard|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./0-100/32/main.cpp)|Hard|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./0-100/31/main.cpp)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](./0-100/30/main.cpp)|Hard|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./0-100/27/main.cpp)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./0-100/26/main.cpp)|Easy|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./0-100/25/main.cpp)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./0-100/24/main.cpp)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](.//1-100/23/main.cpp)|Hard|
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](./1-100/22/main.cpp)|Medium|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./1-100/21/main.cpp)|Easy|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./1-100/20/main.cpp)|Easy|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./1-100/19/main.cpp)|Easy|
-|18|[4Sum](https://leetcode.com/problems/4sum/)| [C++](./1-100/18/main.cpp)|Medium|
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./1-100/17/main.cpp)|Medium|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [C++](./1-100/16/main.cpp)|Medium|
-|15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./1-100/15/main.cpp)|Medium|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[C++](./1-100/14/main.cpp)|Easy|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C++](./1-100/13/main.cpp)|Medium|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./1-100/11/main.cpp)|Medium|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [C++](./1-100/10/main.cpp)|Hard|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](./1-100/9/main.cpp)|Easy|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)| [C++](./1-100/7/main.cpp)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./1-100/06/main.cpp)|Easy|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./1-100/05/main.cpp)|Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./1-100/4/main.cpp)|Hard|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./1-100/03/main.cpp)|Medium|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./1-100/2/main.cpp)|Medium|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./1-100/1/main.cpp)|Medium|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](./0-100/22/main.cpp)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./0-100/21/main.cpp)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./0-100/20/main.cpp)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./0-100/19/main.cpp)|Easy|
+|18|[4Sum](https://leetcode.com/problems/4sum/)| [C++](./0-100/18/main.cpp)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./0-100/17/main.cpp)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [C++](./0-100/16/main.cpp)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./0-100/15/main.cpp)|Medium|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[C++](./0-100/14/main.cpp)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C++](./0-100/13/main.cpp)|Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./0-100/11/main.cpp)|Medium|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [C++](./0-100/10/main.cpp)|Hard|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](./0-100/9/main.cpp)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)| [C++](./0-100/7/main.cpp)|Easy|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./0-100/06/main.cpp)|Easy|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./0-100/05/main.cpp)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./0-100/4/main.cpp)|Hard|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./0-100/03/main.cpp)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./0-100/2/main.cpp)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./0-100/1/main.cpp)|Medium|
