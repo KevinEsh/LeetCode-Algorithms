@@ -4,8 +4,6 @@ Given a string s consists of some words separated by spaces, return the length o
 
 A word is a maximal substring consisting of non-space characters only.
 
-
-
 Example 1:
 
 Input: s = "Hello World"
@@ -14,7 +12,6 @@ Example 2:
 
 Input: s = " "
 Output: 0
-
 
 Constraints:
 
