@@ -354,6 +354,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./0-100/62/main.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./0-100/61/main.cpp)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [C++](./0-100/60/main.cpp)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [C++](./0-100/58/main.cpp)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./0-100/57/main.cpp)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./0-100/56/main.cpp)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](./0-100/54/main.cpp)|Medium|
