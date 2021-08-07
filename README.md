@@ -369,6 +369,7 @@ C++ solution of problems from [LeetCode](https://leetcode.com/).
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./0-100/39/main.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](./0-100/38/main.cpp)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[C++](./0-100/36/main.cpp)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./0-100/35/main.cpp)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [C++](./0-100/34/main.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./0-100/33/main.cpp)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./0-100/32/main.cpp)|Hard|
